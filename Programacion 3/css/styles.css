@@ -1,0 +1,45 @@
+
+.results {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .results img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+    vertical-align: middle;
+  }
+
+  .tik-container {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+  }
+
+  .tik {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .green {
+    background-color: green;
+  }
+
+  .red {
+    background-color: red;
+  }
+
+  .tik-text {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  #random-user-results {
+    padding-left: 20px;
+  }
